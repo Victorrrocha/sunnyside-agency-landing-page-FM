@@ -1,5 +1,4 @@
 import './App.css';
-import Variables from './styles/Variables'; 
 import LandingPage from './components/LandingPage';
 import BodySection from './components/BodySection';
 import Testimonials from './components/Testimonials';
