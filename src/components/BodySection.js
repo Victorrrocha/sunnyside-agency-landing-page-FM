@@ -1,8 +1,8 @@
 import React from 'react'
 import './BodySection.css'
-import OnlyText from './OnlyText'
-import OnlyImage from './OnlyImage'
-import TextAndImage from './TextAndImage'
+import OnlyText from './OnlyText.js'
+import OnlyImage from './OnlyImage.js'
+import TextAndImage from './TextAndImage.js'
 
 export default function BodySection() {
     return (
